@@ -1,2 +1,2 @@
 # Julieth-Jaramillo
-este es un portafolio personal en html 
+este es un portafolio https://julieth-jaramillo.github.io/Julieth-Jaramillo/ 
